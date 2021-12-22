@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/gascalculator/static/css/main.49579aab.chunk.css",
+    "main.js": "/gascalculator/static/js/main.ae67d16f.chunk.js",
+    "main.js.map": "/gascalculator/static/js/main.ae67d16f.chunk.js.map",
+    "runtime-main.js": "/gascalculator/static/js/runtime-main.a26d9f81.js",
+    "runtime-main.js.map": "/gascalculator/static/js/runtime-main.a26d9f81.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/gascalculator/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.dc962f1f.chunk.js": "/gascalculator/static/js/2.dc962f1f.chunk.js",
+    "static/js/2.dc962f1f.chunk.js.map": "/gascalculator/static/js/2.dc962f1f.chunk.js.map",
+    "index.html": "/gascalculator/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/gascalculator/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.49579aab.chunk.css.map": "/gascalculator/static/css/main.49579aab.chunk.css.map",
+    "static/js/2.dc962f1f.chunk.js.LICENSE.txt": "/gascalculator/static/js/2.dc962f1f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/gascalculator/static/media/junegull.0504b581.ttf",
+    "static/media/JAAA.999be0f0.png": "/gascalculator/static/media/JAAA.999be0f0.png",
+    "static/media/bil.45c50ea6.png": "/gascalculator/static/media/bil.45c50ea6.png",
+    "static/media/blue-gas.8b3e8298.png": "/gascalculator/static/media/blue-gas.8b3e8298.png",
+    "static/media/blueel.37d436bb.png": "/gascalculator/static/media/blueel.37d436bb.png",
+    "static/media/dis-blue.2e4e2bc1.png": "/gascalculator/static/media/dis-blue.2e4e2bc1.png",
+    "static/media/planeblue.e331f8e1.png": "/gascalculator/static/media/planeblue.e331f8e1.png",
+    "static/media/thistrain.c6f656fa.png": "/gascalculator/static/media/thistrain.c6f656fa.png",
+    "static/media/waitanswer.80b06df6.png": "/gascalculator/static/media/waitanswer.80b06df6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a26d9f81.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.dc962f1f.chunk.js",
+    "static/css/main.49579aab.chunk.css",
+    "static/js/main.ae67d16f.chunk.js"
+  ]
+}
