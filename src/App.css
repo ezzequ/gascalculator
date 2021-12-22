@@ -1,0 +1,117 @@
+
+
+body{
+ background-image: linear-gradient(to bottom, rgb(1, 120, 175)5%, rgb(27, 240, 255)95%);
+
+
+
+}
+
+#pris{
+font-size: 30px;
+}
+
+
+
+
+
+.screen{
+  min-width: 520px;
+}
+
+#texten{
+ 
+ justify-self:auto;
+ font-family: 'junegull';
+ 
+  
+}
+
+.bg-navy{
+  font-family: "bebasneue";
+ 
+}
+
+.svar{
+  font-family: "bebasneue";
+  
+
+}
+
+#molntitel{
+
+  font-family: 'junegull';
+}
+
+@font-face {
+  font-family: "Athletic" ;
+  font-style: normal;
+  font-weight: normal;
+  src: local('New Athletic'), url(global/New\ Athletic\ M54.ttf) format('woff');
+}
+
+@font-face {
+  font-family: "junegull" ;
+  font-style: normal;
+  font-weight: normal;
+  src: local('junegull'), url(global/junegull.ttf) format('woff');
+}
+
+@font-face {
+  font-family: "bebasneue" ;
+  font-style: normal;
+  font-weight: normal;
+  src: local('bebasneue'), url(global/BebasNeue-Regular.ttf) format('woff');
+}
+ 
+#dis{ /*distans bild*/
+  height: 80%;
+  width: auto
+}
+ 
+#ben{/* bensin bild*/
+  height: 80%;
+  width: auto
+}
+
+.center{
+  margin-left: auto;
+  margin-left: auto;
+}
+
+input{
+  border-radius: 20px;
+ 
+  height: 15%;
+  border: none;
+  padding: 10px;
+}
+
+img{
+  height: auto;
+  width: auto;
+}
+
+#fordon{
+  height: 200px;
+  width: auto;
+}
+
+#bilen{
+  height: 80px;
+  width: auto;
+}
+
+
+#train{
+  height: 290px;
+  width: auto;
+}
+
+
+@media screen and (min-width: 450px) {
+  .dt-dt--fixed.w-80.h-90.center.ma2.pa3{
+    width: 100%;
+    
+  }
+}
